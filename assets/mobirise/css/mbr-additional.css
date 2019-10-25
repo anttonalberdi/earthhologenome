@@ -2871,10 +2871,31 @@ section.lazy-placeholder:after {
 .cid-rFsIujN8un H1 {
   color: #ffffff;
 }
+.cid-rFVoVpQEnL {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rFVoVpQEnL .title {
+  margin-bottom: 2rem;
+}
+.cid-rFVoVpQEnL .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rFVoVpQEnL a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rFVoVpQEnL a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rFVoVpQEnL textarea.form-control {
+  min-height: 188px;
+}
 .cid-rFvu2b4j7k {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #7e7e7e;
+  background-color: #232323;
 }
 @media (max-width: 767px) {
   .cid-rFvu2b4j7k .content {
